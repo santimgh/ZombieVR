@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Vaultable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - NonWalkable
   - Water
   - UI
   - 

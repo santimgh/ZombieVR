@@ -1,1 +1,1 @@
-# ZombieVR
+Valem Tutorials: https://www.youtube.com/@ValemTutorials -> It helped with to implement and fix many things such as the firing bullet mechanism, the script for hiding the hand when grabbing the gun and for optimizing the game.

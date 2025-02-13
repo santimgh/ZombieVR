@@ -7,6 +7,8 @@ TagManager:
   - Vaultable
   - Left Hand
   - Right Hand
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
